@@ -1,0 +1,2 @@
+# Labs
+print "Hello World" >:-)
